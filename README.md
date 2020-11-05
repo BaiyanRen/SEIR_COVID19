@@ -1,1 +1,1 @@
-# SEIR_COVID19
+# Predict COVID-19 cases by modified SEIR model
